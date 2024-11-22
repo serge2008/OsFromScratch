@@ -61,4 +61,4 @@ While this is primarily a personal learning project, feedback and suggestions ar
 ---
 
 Stay tuned for updates as the project progresses!
-# begininning: [Day 1](Day1.MD)
+# begininning: [Day 1](day1.MD)
