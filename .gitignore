@@ -1,0 +1,34 @@
+# Ignore system files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Ignore IDE or editor-specific files
+.vscode/
+.idea/
+
+# Ignore compiled code
+*.exe
+*.out
+*.o
+*.a
+*.so
+*.dll
+
+# Ignore backup files
+*~
+*.bak
+*.swp
+*.swo
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore MSYS2 specific files (e.g., package management and config)
+/mingw64/
+/msys64/
+/usr/
