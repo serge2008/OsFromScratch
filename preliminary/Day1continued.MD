@@ -1,3 +1,3 @@
 # Day 1 continued part 1: created preliminary folder
-today i created the preliminary folder and files inside the folder and started learning c basics
+Today, I created the preliminary folder structure for the project and added the necessary files inside. This marks the beginning of organizing the development environment for the operating system project. In parallel, I also started reviewing the basics of C programming to prepare for upcoming tasks in kernel and bootloader development.  
 [day 1 continued part 2](C/day1continued.MD)
